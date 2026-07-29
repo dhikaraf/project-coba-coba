@@ -1,0 +1,5 @@
+Hai this file including an information about this repository, so there is nothing important right here
+
+The topics that i have to learn:
+1. Javascript
+2. Software Concept
