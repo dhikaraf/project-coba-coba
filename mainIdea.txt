@@ -1,0 +1,5 @@
+This is the main idea of this repository, so this repository will be a history of my learning journey, 
+so that there is nothing important right here.
+
+the purpose:
+1. I want to be a fullstack developer
