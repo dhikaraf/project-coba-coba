@@ -4,4 +4,5 @@ so that there is nothing important right here.
 the purpose:
 1. I want to be a fullstack developer
 2. I Have to be a fullstack developer
-
+3. I want to learn java because i want to be an android developer
+4. I want to learn node js
