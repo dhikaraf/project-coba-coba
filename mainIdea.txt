@@ -4,5 +4,8 @@ so that there is nothing important right here.
 the purpose:
 1. I want to be a fullstack developer
 2. I Have to be a fullstack developer
-3. I have to learn backend
-4. I have to learn frontend
+3. I have to learn UI/UX
+4. I Have to learn system design
+5. I have to learn OOP
+6. I want to learn java because i want to be an android developer
+7. I want to learn node js
