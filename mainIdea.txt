@@ -7,3 +7,5 @@ the purpose:
 3. I have to learn UI/UX
 4. I Have to learn system design
 5. I have to learn OOP
+6. I want to learn java because i want to be an android developer
+7. I want to learn node js
