@@ -9,3 +9,4 @@ the purpose:
 5. I have to learn OOP
 6. I want to learn java because i want to be an android developer
 7. I want to learn node js
+8. I have to learn React Native 
